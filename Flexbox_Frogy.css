@@ -54,3 +54,10 @@ align-items: flex-end;
   display: flex;
 flex-direction: row-reverse;
 }
+
+##nivel9 
+
+#pond {
+  display: flex;
+flex-direction: column;
+}
