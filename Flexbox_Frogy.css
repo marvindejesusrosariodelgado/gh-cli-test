@@ -17,3 +17,11 @@ justify-content: center;
   display: flex;
 justify-content: space-around;
 }
+
+##nivel4
+ 
+#pond {
+  display: flex;
+justify-content: space-between;
+}
+
