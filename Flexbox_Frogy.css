@@ -40,3 +40,11 @@ justify-content: center;
 align-items: center;
 }
 
+##nivel7
+
+#pond {
+  display: flex;
+justify-content: space-around;
+align-items: flex-end;
+}
+
