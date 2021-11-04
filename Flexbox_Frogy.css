@@ -32,3 +32,11 @@ justify-content: space-between;
 align-items: flex-end;
 }
 
+##nivel6
+
+#pond {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+
