@@ -144,3 +144,11 @@ align-self: flex-end
   display: flex;
 flex-wrap: wrap
 }
+
+##nivel19
+
+#pond {
+  display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+}
