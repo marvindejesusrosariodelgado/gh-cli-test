@@ -175,3 +175,22 @@ align-content: flex-start
   flex-wrap: wrap;
 align-content: flex-end
 }
+
+##nivel23
+
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+flex-direction: column-reverse;
+align-content: center;
+}
+
+##nivel24
+
+#pond {
+  display: flex;
+flex-flow: wrap-reverse column-reverse;
+justify-content: center;
+align-content:  space-between;
+justify-content: flex-
+}
