@@ -61,3 +61,11 @@ flex-direction: row-reverse;
   display: flex;
 flex-direction: column;
 }
+
+##nivel10
+
+#pond {
+  display: flex;
+flex-direction: row-reverse;
+justify-content: flex-end;
+}
