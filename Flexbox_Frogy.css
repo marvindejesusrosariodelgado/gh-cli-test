@@ -152,3 +152,10 @@ flex-wrap: wrap
 flex-wrap: wrap;
 flex-direction: column;
 }
+
+##nivel20
+
+#pond {
+  display: flex;
+flex-flow: wrap column
+}
