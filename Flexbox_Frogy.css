@@ -114,3 +114,26 @@ order: 1
 .red {
 order: -1
 }
+
+##nivel16
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+align-self: flex-end
+}
+
+##nivel17
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+order: 2;
+align-self: flex-end
+}
